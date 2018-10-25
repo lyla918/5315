@@ -1,124 +1,124 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
+      "name": "Jefferey Smith",
+      "Gender": "Male",
+      "DOB": "10/16/1987",
       "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "Salary": "$130,0000",
+      "Office": "New York"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "Alison Cohen",
+      "Gender": "Female",
+      "DOB": "08/16/1977",
+      "joining_date": "2010/12/02",
+      "Salary": "$260,340",
+      "Office": "Los Angeles"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "Emily Hilton",
+      "Gender": "Female",
+      "DOB": "04/03/1991",
+      "joining_date": "2018/01/12",
+      "Salary": "$70,000",
+      "Office": "San Francisco"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
+      "name": "Michael Watson",
+      "Gender": "Male",
+      "DOB": "06/18/1985",
       "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "Salary": "$370,000",
+      "Office": "Tokyo"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "name": "Carlos Obando",
+      "Gender": "Male",
+      "DOB": "07/11/1967",
+      "joining_date": "1998/12/12",
+      "Salary": "$560,000",
+      "Office": "New York"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "name": "Shreya Decker",
+      "Gender": "Female",
+      "DOB": "01/21/1992",
+      "joining_date": "20017/11/13",
+      "Salary": "$67,000",
+      "Office": "London"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
+      "name": "Jacob Milestone",
+      "Gender": "Male",
+      "DOB": "09/03/1988",
       "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "Salary": "$83,000",
+      "Office": "Chicago"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Hartly Kennedy",
+      "Gender": "Female",
+      "DOB": "12/11/1984",
+      "joining_date": "2007/12/18",
+      "Salary": "$123,000",
+      "Office": "Seattle"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Colin Hunter",
+      "Gender": "Male",
+      "DOB": "11/17/1989",
+      "joining_date": "2015/09/15",
+      "Salary": "$90,800",
+      "Office": "Sydney"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Nancy Lee",
+      "Gender": "Female",
+      "DOB": "10/28/1993",
+      "joining_date": "2017/09/26",
+      "Salary": "$70,000",
+      "Office": "San Diego"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
+      "name": "Herry Chandler",
+      "Gender": "Male",
+      "DOB": "11/01/1985",
       "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "Salary": "$120,300",
+      "Office": "Boston"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
+      "name": "Rita Davidson",
+      "Gender": "Female",
+      "DOB": "03/15/1979",
       "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "Salary": "$327,000",
+      "Office": "San Francisco"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Lynn Frost",
+      "Gender": "Female",
+      "DOB": "06/14/1991",
+      "joining_date": "2017/12/13",
+      "Salary": "$82,300",
+      "Office": "Washington D.C."
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
+      "name": "Celeb Gaines",
+      "Gender": "Male",
+      "DOB": "08/24/1982",
       "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "Salary": "$230,890",
+      "Office": "San Jose"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
+      "name": "Eric Flynn",
+      "Gender": "Male",
+      "DOB": "11/29/1987",
       "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "Salary": "$170,400",
+      "Office": "San Francisco"
     }
   ]
 }
